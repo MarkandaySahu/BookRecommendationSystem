@@ -8,8 +8,8 @@ Types of recommender system:
 2. Content based - similar content are recommended, which are similar based on the attributes of content, say all shah rukh movies are recommended togather.
 3. Collaborative filtering based - multiple users rate/review items (say out of 10), now each user will represent a dimension/axis in a multi-dimensional coordinate system with scale from 0 to 5. and, each movie will form a datapoint in this system. similar movies will form a cluster in this space.
 4. Hybrid(of above 3)
-
 our project will be based on type 1 and type 3 i.e., collaborative filtering...and we will recommend those items which are nearby to us in that multi-dimensional space.
+
 ---
 
 ## 🚀 Features & Architecture
